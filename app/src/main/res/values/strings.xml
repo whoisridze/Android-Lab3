@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="tv_empty_list">Список порожній</string>
+    <string name="fab_desc">Add</string>
+    <string name="til_name_hint">Ім’я</string>
+    <string name="til_email_hint">Email</string>
+    <string name="til_phone_hint">Телефон</string>
+    <string name="btn_photo_text">Take photo</string>
+    <string name="btn_add_text">Add</string>
+    <string name="tv_nophoto_text">No Photo</string>
+    <string name="btn_delete_desc">Delete</string>
+</resources>

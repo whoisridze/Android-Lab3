@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnAdd" type="id" />
+    <item name="btnTakePhoto" type="id" />
+    <item name="imgPreview" type="id" />
+    <item name="etPhone" type="id" />
+    <item name="tilPhone" type="id" />
+    <item name="etEmail" type="id" />
+    <item name="tilEmail" type="id" />
+    <item name="etName" type="id" />
+    <item name="tilName" type="id" />
+    <item name="rootLayout" type="id" />
+</resources>
